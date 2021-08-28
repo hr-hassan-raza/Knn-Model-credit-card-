@@ -1,0 +1,101 @@
+Age,Gender,Occupation,Employment Status,Employement Type,Salary,Purchased
+34,Male,Salaried,Yes,Permanent,72000,No
+42,Female,Business,Yes,Temporary,48000,Yes
+?,Male,Business,No,Temporary,54000,No
+38,Male,Business,No,Permanent,61000,No
+32,Male,Salaried,?,Permanent,?,Yes
+31,Female,Business,Yes,Temporary,58000,Yes
+?,Female,Salaried,?,Temporary,52000,No
+22,Female,Salaried,Yes,Self Employed,79000,Yes
+38,Male,Business,No,?,?,No
+49,?,?,Yes,Self Employed,67000,Yes
+34,Male,Salaried,No,Permanent,70000,No
+42,Female,Business,No,Temporary,48000,Yes
+29,Female,Business,No,Temporary,54000,No
+38,Male,Business,No,Permanent,61000,No
+?,Male,Salaried,Yes,Permanent,?,Yes
+32,Female,Business,Yes,Temporary,58000,Yes
+?,?,Salaried,Yes,Temporary,52000,Yes
+22,Female,Salaried,Yes,?,85000,Yes
+38,Male,Business,Yes,?,?,No
+45,Male,?,?,Self Employed,67000,Yes
+29,Female,Business,No,Temporary,54000,No
+45,Male,?,?,Self Employed,67000,Yes
+22,Female,Salaried,Yes,?,85000,Yes
+?,?,Salaried,Yes,Temporary,52000,Yes
+34,Male,Salaried,No,Permanent,70000,No
+42,Female,Business,Yes,Temporary,48000,Yes
+49,?,?,Yes,Self Employed,67000,Yes
+42,Female,Business,No,Temporary,48000,Yes
+?,Female,Salaried,?,Temporary,52000,No
+38,Male,Business,No,Permanent,61000,No
+29,Male,Business,No,Temporary,54000,No
+31,Female,Business,Yes,Temporary,58000,Yes
+38,Male,Business,Yes,?,?,No
+22,Female,Salaried,Yes,Self Employed,79000,Yes
+38,Male,Business,No,?,?,No
+?,Male,Salaried,Yes,Permanent,?,Yes
+32,Male,Salaried,?,Permanent,?,Yes
+32,Female,Business,Yes,Temporary,58000,Yes
+34,Male,Salaried,Yes,Permanent,72000,No
+38,Male,Business,No,Permanent,61000,No
+32,Female,Business,Yes,Temporary,58000,Yes
+42,Female,Business,Yes,Temporary,48000,Yes
+34,Male,Salaried,No,Permanent,70000,No
+38,Male,Business,No,Permanent,61000,No
+29,Male,Business,No,Temporary,54000,No
+32,Male,Salaried,?,Permanent,?,Yes
+38,Male,Business,No,?,?,No
+22,Female,Salaried,Yes,?,85000,Yes
+34,Male,Salaried,Yes,Permanent,72000,No
+?,?,Salaried,Yes,Temporary,52000,Yes
+?,Female,Salaried,?,Temporary,52000,No
+38,Male,Business,No,Permanent,61000,No
+38,Male,Business,Yes,?,?,No
+29,Female,Business,No,Temporary,54000,No
+?,Male,Salaried,Yes,Permanent,?,Yes
+42,Female,Business,No,Temporary,48000,Yes
+31,Female,Business,Yes,Temporary,58000,Yes
+45,Male,?,?,Self Employed,67000,Yes
+49,?,?,Yes,Self Employed,67000,Yes
+22,Female,Salaried,Yes,Self Employed,79000,Yes
+38,Male,Business,No,?,?,No
+38,Male,Business,No,Permanent,61000,No
+29,Female,Business,No,Temporary,54000,No
+22,Female,Salaried,Yes,?,85000,Yes
+22,Female,Salaried,Yes,Self Employed,79000,Yes
+38,Male,Business,No,Permanent,61000,No
+34,Male,Salaried,No,Permanent,70000,No
+?,Female,Salaried,?,Temporary,52000,No
+?,?,Salaried,Yes,Temporary,52000,Yes
+42,Female,Business,No,Temporary,48000,Yes
+34,Male,Salaried,Yes,Permanent,72000,No
+32,Female,Business,Yes,Temporary,58000,Yes
+31,Female,Business,Yes,Temporary,58000,Yes
+29,Male,Business,No,Temporary,54000,No
+42,Female,Business,Yes,Temporary,48000,Yes
+49,?,?,Yes,Self Employed,67000,Yes
+45,Male,?,?,Self Employed,67000,Yes
+?,Male,Salaried,Yes,Permanent,?,Yes
+38,Male,Business,Yes,?,?,No
+32,Male,Salaried,?,Permanent,?,Yes
+42,Female,Business,No,Temporary,48000,Yes
+?,?,Salaried,Yes,Temporary,52000,Yes
+38,Male,Business,Yes,?,?,No
+31,Female,Business,Yes,Temporary,58000,Yes
+22,Female,Salaried,Yes,?,85000,Yes
+45,Male,?,?,Self Employed,67000,Yes
+38,Male,Business,No,Permanent,61000,No
+29,Female,Business,No,Temporary,54000,No
+22,Female,Salaried,Yes,Self Employed,79000,Yes
+38,Male,Business,No,Permanent,61000,No
+49,?,?,Yes,Self Employed,67000,Yes
+34,Male,Salaried,Yes,Permanent,72000,No
+42,Female,Business,Yes,Temporary,48000,Yes
+38,Male,Business,No,?,?,No
+?,Male,Salaried,Yes,Permanent,?,Yes
+32,Female,Business,Yes,Temporary,58000,Yes
+?,Female,Salaried,?,Temporary,52000,No
+32,Male,Salaried,?,Permanent,?,Yes
+29,Male,Business,No,Temporary,54000,No
+34,Male,Salaried,No,Permanent,70000,No
